@@ -53,8 +53,7 @@ public class Analyser {
 		} catch (Exception e1) {
 			e1.printStackTrace();
 		}
-		
-		//ScannerAverage();			
+				
 		previousHour = getHour();
 		previousMinute = getMinute();
 				
